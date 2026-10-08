@@ -151,7 +151,7 @@ HTML • CSS • JavaScript • PHP • C# • SQL
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?username=IzabelaRocha01&theme=radical&hide_border=true&background=0D0014&ring=FF1493&fire=FF69B4&currStreakLabel=FF69B4"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=IzabelaRocha01&theme=radical&hide_border=true&background=0D0014&ring=FF1493&fire=FF69B4&currStreakLabel=FF69B4"/>
 
 </div>
 
